@@ -1,0 +1,13 @@
+{
+    "id_name": "mysql",
+    "version": 1,
+    "author": "tom",
+    "name": "MySql Manager",
+    "description": "",
+    "dependencies": {
+        "is_admin": 1,
+        "mysql_client": 1,
+        "service_manager": 2,
+        "settings": 2
+    }
+}
